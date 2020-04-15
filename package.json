@@ -4,7 +4,6 @@
   "description": "An Angular directive for creating simple sprites.",
   "main": "dist/angular-simple-sprite.js",
   "dependencies": {
-    "grunt": "^0.4.5"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
